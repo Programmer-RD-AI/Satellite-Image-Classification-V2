@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.13.0-40-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-04-27T08:26:09.879081",
+    "startedAt": "2022-04-27T08:26:07.716491",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-30d3ad98-d6ac-44f5-8bf5-54a379bf37c9.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/media/indika/Sync/Programmer-RD-AI/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Satellite-Image-Classification-V2",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/Satellite-Image-Classification-V2.git",
+        "commit": "438045b2b7581fb8bd2b007a46dd28c6382fd0d5"
+    },
+    "email": "go2ranuga@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/usr/bin/python3"
+}
